@@ -1,0 +1,5 @@
+res://scenes/main.tscn
+res://stateMachine/TargetStates/IdleState.gd
+res://stateMachine/TargetStates/TargetState.gd
+res://stateMachine/TargetStates/RunningState.gd
+res://stateMachine/stateMachine.gd
